@@ -47,5 +47,7 @@ Gaming
 
 ## Author
 **Ayesha Babar**
+BS Computer Science
+University Of Education Lahore, Attock Campus
 
 DecodeLabs Artificial Intelligence Internship – Project 3
