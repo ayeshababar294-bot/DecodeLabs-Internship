@@ -1,0 +1,107 @@
+# AI Project 2 - Data Classification Using AI
+
+## Overview
+
+This project was developed as part of the **DecodeLabs Artificial Intelligence Internship**.
+
+The objective of this project is to build a basic AI classification model using Machine Learning. The model is trained on an e-commerce dataset to classify the **Order Status** based on order-related information.
+
+The project demonstrates the complete machine learning workflow, including data loading, preprocessing, data splitting, model training, prediction, and performance evaluation.
+
+---
+
+## Objectives
+
+* Load the dataset.
+* Understand the dataset structure.
+* Prepare the data for machine learning.
+* Split the dataset into training and testing sets.
+* Train a classification model.
+* Predict order status.
+* Evaluate the model using accuracy.
+
+---
+
+## Technologies Used
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+
+---
+
+## Dataset
+
+The project uses the e-commerce dataset provided for the DecodeLabs internship.
+
+The dataset contains information such as:
+
+* Product Name
+* Product Category
+* Payment Method
+* Quantity
+* Unit Price
+* Total Amount
+* Order Status
+
+The target variable for classification is **Order Status**.
+
+---
+
+## Machine Learning Workflow
+
+1. Import required libraries.
+2. Load the dataset.
+3. Handle categorical data.
+4. Split the dataset into training and testing sets.
+5. Train the classification model.
+6. Predict the order status.
+7. Calculate model accuracy.
+8. Test the model with new data.
+
+---
+
+## Features
+
+* Dataset loading
+* Data preprocessing
+* Feature selection
+* Classification model training
+* Prediction of order status
+* Accuracy evaluation
+* Beginner-friendly implementation
+
+---
+
+## Installation
+
+Install the required libraries:
+
+```bash
+pip install pandas numpy scikit-learn
+```
+
+---
+
+## Learning Outcomes
+
+After completing this project, I learned how to:
+
+* Work with real-world datasets.
+* Prepare data for machine learning.
+* Train a classification model.
+* Predict class labels.
+* Evaluate AI model performance using accuracy.
+
+---
+
+## Author
+
+**Ayesha Babar**
+
+BS Computer Science
+
+University of Education, Lahore (Attock Campus)
+
+Project completed for the **DecodeLabs Artificial Intelligence Internship**.
